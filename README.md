@@ -6,6 +6,6 @@
 
 >使用 dockerfile 在服务器执行镜像文件 
 
->使用 nginx 反向代理 进行DNS解析
+>使用 nginx  进行DNS解析
 
 博客地址：https://blog.csdn.net/wanglei19891210/article/details/105765926
